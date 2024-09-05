@@ -35,7 +35,7 @@ Middle-aged adults: they make up the largest age group that purchases bicycles.
 Customers in the age group of 31-49 tend to purchase bikes more frequently than customers in other age groups.
 
 The region:
-Customers who stay in the Europe region tend to purchase bikes more than customer in the North America, and Pacific regions.
+Customers who stay in the North America  region tend to purchase bikes more than customer in the Europe, and Pacific regions.
 
 The distance that customers commute:
 Short distances: People who cummute short distances tend to use bicycles, indicating their use as a means of short-range transportation.
