@@ -42,8 +42,11 @@ Short distances: People who cummute short distances tend to use bicycles, indica
 
 Conclusion :
 
-Demographic factors: Demographic factors such as age, income, and region play an important role in determining who buys bicycles.
-Future opportunities: The company can target specific age groups, such as young people, by offering special promotions and designing bikes that meet their needs.
+Demographic factors:
+Demographic factors such as age, income, and region play an important role in determining who buys bicycles.
+
+Future opportunities:
+The company can target specific age groups, such as young people, by offering special promotions and designing bikes that meet their needs.
 
 
 
